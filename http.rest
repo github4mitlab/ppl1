@@ -1,0 +1,10 @@
+
+
+## First Test
+http://localhost:5000
+
+### Login Router Test
+http://localhost:5000/users/login
+
+###### Register Router Test
+http://localhost:5000/users/register
